@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java: the ConcurrentModificationException. The example shows how to trigger this exception by modifying a list while iterating through it using an enhanced for loop.  A solution is provided that safely removes elements.
